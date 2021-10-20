@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/oh/Storage/Storage.php</file>
+            <file>file:/var/www/html/oh/App/BaseRequirementFactory.php</file>
+            <file>file:/var/www/html/oh/Validators/BaseValidator.php</file>
+            <file>file:/var/www/html/oh/Validators/ValidatorInterface.php</file>
+            <file>file:/var/www/html/oh/App/Results.php</file>
+            <file>file:/var/www/html/oh/Validators/RequiredGraduationSubjectsValidator.php</file>
+            <file>file:/var/www/html/oh/App/RequirementFactory.php</file>
+            <file>file:/var/www/html/oh/Validators/ValidatorChain.php</file>
+            <file>file:/var/www/html/oh/App/ScoreCalculator.php</file>
+            <file>file:/var/www/html/oh/Validators/Below20PercentOfTheSubjectsValidator.php</file>
+            <file>file:/var/www/html/oh/index.php</file>
+            <file>file:/var/www/html/oh/App/Requirement.php</file>
+            <file>file:/var/www/html/oh/composer.json</file>
+            <file>file:/var/www/html/oh/Utils/Utils.php</file>
+            <file>file:/var/www/html/oh/App/FactoryInterface.php</file>
+        </group>
+    </open-files>
+</project-private>
